@@ -1,0 +1,3 @@
+[submodule "third_party/neovim"]
+	path = third_party/neovim
+	url = git@github.com:neovim/neovim.git
